@@ -1,6 +1,6 @@
 # Joe Sterett
 
-**Technology & product leader building AI systems that turn messy real-world problems into trustworthy operational software.**
+**Senior technical program and delivery manager (20+ years in IT; PMP, CSM, SAFe) building AI systems that turn messy real-world problems into trustworthy operational software.**
 
 I've spent my career working where technology, operations, people, and business problems collide. I'm especially interested in what changes when AI makes it possible to move much faster from **problem discovery → product decision → working software → real-world validation**.
 
